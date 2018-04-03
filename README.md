@@ -1,1 +1,1 @@
-This is the child theme used on the [demo site](http://wpbarbafullscreen.thisbailiwick.com/) showing a live use of the WordPress plugin [wp.barba.js.fullscreen](https://github.com/thisbailiwick/wp.barba.js.fullscreen).
+This is the child theme of [Twenty Seventeen](https://github.com/WordPress/twentyseventeen) used on the [demo site](http://wpbarbafullscreen.thisbailiwick.com/) showing a live use of the WordPress plugin [wp.barba.js.fullscreen](https://github.com/thisbailiwick/wp.barba.js.fullscreen).
