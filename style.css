@@ -1,0 +1,24 @@
+/*
+ Theme Name:   Barba Full Screen Test Theme
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Seventeen Child Theme
+ Author:       Kevin Clark
+ Author URI:   http://thisbailiwick.com
+ Template:     twentyseventeen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  barba-full-screen-test-theme
+*/
+
+.has-header-image.home.blog .site-branding{
+    height: 100vh;
+}
+
+.has-header-image.home.blog #masthead .site-branding .wrap{
+    bottom: 28px;
+    max-width: 100%;
+    position: absolute;
+    width: 100%;
+}
