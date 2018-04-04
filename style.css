@@ -12,6 +12,11 @@
  Text Domain:  barba-full-screen-test-theme
 */
 
+.fullscreen{
+    width: 100%;
+    overflow: scroll;
+}
+
 .has-header-image.home.blog .site-branding{
     height: 100vh;
 }
