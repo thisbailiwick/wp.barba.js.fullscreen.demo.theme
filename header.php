@@ -43,7 +43,7 @@
 
 
 	<div id="barba-wrapper" class="site-content-contain">
-		<div id="content" class="site-content barba-container">
+		<div id="content" class="site-content barba-container" data-namespace="common">
 		 <?php
 
 			/*
